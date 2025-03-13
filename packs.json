@@ -1,6 +1,11 @@
 {
     "packs": [
         {
+            "name": "Default GTA Sound Pack",
+            "resident_download": "https://www.dropbox.com/scl/fi/gu6g24s48bu0hviqcy0u7/resident.rpf?rlkey=k0llss63efq1oeeg3s86wsfkp&st=lhpgeccq&dl=0",
+            "weapons_download": "https://www.dropbox.com/scl/fi/9oc2sqrrul8utiwhdw8kk/weapons_player.rpf?rlkey=ppvxj5n5ocyc9klqk0u5e04ho&st=abb3yyih&dl=0"
+        },
+        {
             "name": "LachieSP1",
             "preview": "https://www.dropbox.com/scl/fi/qzxttb8a8oa3wtyd8stn3/lachiessp1.mp3?rlkey=g4lq6c9otuxrebsmaemzzka17&st=xiq2qw8f&dl=1",
             "resident_download": "https://www.dropbox.com/scl/fi/eube1f3h1srzjkcxl20gt/RESIDENT.rpf?rlkey=0algzmhtraolpipb9ht3pdo45&st=srewi4fe&dl=1",
