@@ -103,9 +103,15 @@
         },
         {
             "name": "RPFriendlyNOHSFS",
-            "preview": "    https://www.dropbox.com/scl/fi/1tvnkekz8pqg3st842a03/rpfriendly.mp3?rlkey=qqa2ll7kxovjsvaisvn6m1s3k&st=eldil3ab&dl=1",
+            "preview": "https://www.dropbox.com/scl/fi/1tvnkekz8pqg3st842a03/rpfriendly.mp3?rlkey=qqa2ll7kxovjsvaisvn6m1s3k&st=eldil3ab&dl=1",
             "resident_download": "https://www.dropbox.com/scl/fi/pwzntjxjfgy4w5ou5io9s/RESIDENT.rpf?rlkey=dduu1s2zxa4435dwu5pzi0sr9&st=l6y2d19l&dl=1",
             "weapons_download": "https://www.dropbox.com/scl/fi/gg2zw7hxsi1y6katsijd0/WEAPONS_PLAYER.rpf?rlkey=b9ud5s4xkfacrhasdyfos4qce&st=u5aztu8p&dl=1"
+        },
+        {
+            "name": "Tims WarsStarSP (No Screams)",
+            "preview": "https://www.dropbox.com/scl/fi/tzgbwbwtyvjpv0vluoiw5/SWSP.mp3?rlkey=nxhyil7e74w9a0rxs35zykibp&st=obecj1y9&dl=1",
+            "resident_download": "https://www.dropbox.com/scl/fi/hlgun4lw1eojqf606h7ic/resident.rpf?rlkey=kz054r85qjbmynnhz05j18n4h&st=ayvp9mox&dl=1",
+            "weapons_download": "https://www.dropbox.com/scl/fi/5vkev0r8873j38zaqm8gi/weapons_player.rpf?rlkey=w22rbpc9uc5t27tj6q899im2y&st=427to23l&dl=1"
         }
     ]
 
